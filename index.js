@@ -2,7 +2,7 @@ var recipes = new Object({ dish: "ingredients" });
 
 function updateObjectWithKeyAndValue(recipes, dish, ingredients) {
 
-  recipes[dish] = ingredients
+  recipes[dish] = flour
 
   return recipes
 }
